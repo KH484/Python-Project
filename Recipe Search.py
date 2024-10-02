@@ -1,8 +1,7 @@
 import math  # Use math library to access math modules that we need to calculate nutritional info
 import requests
 
-app_id = "9b205e26"
-app_key = "39cb576341b00bcc867f9ebb96a860be"
+
 
 
 def print_list(choices_dict):
